@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\4b322600d2779b42f95c22dfc5947cf61802d0c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_201e463b8af0896b17fd9945941c37c7d7937902\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\1ddda398e076134ad2715db4df7c2f284d547121\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_b7ac43e236b6aff8363ec067263593c4084a9761.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\24a131cb92b4d477aefe327d6a2dacbae4edccea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90265c169ed744faa6ededd2a2fe8a604b3f2927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\1ddda398e076134ad2715db4df7c2f284d547121\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7ac43e236b6aff8363ec067263593c4084a9761\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\24a131cb92b4d477aefe327d6a2dacbae4edccea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_90265c169ed744faa6ededd2a2fe8a604b3f2927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_de0f742cfc2836176316795bb4473241da6d517b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_de0f742cfc2836176316795bb4473241da6d517b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\5c01e5dc8cd88c5d3eef1806a0aa9dc04c9402d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09efe85b9e070955ecf523cfe6e55d91b79cdc91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\9794e92f2a8012234088d6d1d92ab597d953a5e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a848d499465cdb39c7866a808533c9ac27ccfc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\5763110c9c78de2a1b823d76fe774664ffc70ab7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbe3e911a6691532e02a6ba5a57029b4758622e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\5763110c9c78de2a1b823d76fe774664ffc70ab7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_cbe3e911a6691532e02a6ba5a57029b4758622e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\9794e92f2a8012234088d6d1d92ab597d953a5e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_4a848d499465cdb39c7866a808533c9ac27ccfc8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\dcea65302a4294771d116f32e0ede601f8ba2f98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93839cd55f196eec22bfa22682d86fe7871d9dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\4b322600d2779b42f95c22dfc5947cf61802d0c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_201e463b8af0896b17fd9945941c37c7d7937902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\dcea65302a4294771d116f32e0ede601f8ba2f98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_93839cd55f196eec22bfa22682d86fe7871d9dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\1752525802ace3455b7b07dce0af50dfc72fcac6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_080130a80e488517fbfcb15d0253af28c26682a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6bd26b35dea8b56f30326ad4b720b7c0df2668cb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\1752525802ace3455b7b07dce0af50dfc72fcac6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_080130a80e488517fbfcb15d0253af28c26682a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6bd26b35dea8b56f30326ad4b720b7c0df2668cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\622a775b2e0b25fd65b014275485b156fa9ef475\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_90df3dc204a431177e0bc1d042af3526464e5574.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectAS\ProjectBaru\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9d101b23786c1bf29bb58677a43b44494ecbe7f4">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_aba23a4164580d0492ba114f29ad84528fc9756b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\622a775b2e0b25fd65b014275485b156fa9ef475\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90df3dc204a431177e0bc1d042af3526464e5574\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\72ab296113b91aaacda5140940bef223aaca2abe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7f44006bbe1fed7f73e5612b6a1e5b84ee929bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectAS\ProjectBaru\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d596505f2853fd1c5cebb03a74ef94bc89085bcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\72ab296113b91aaacda5140940bef223aaca2abe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_d7f44006bbe1fed7f73e5612b6a1e5b84ee929bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\5c01e5dc8cd88c5d3eef1806a0aa9dc04c9402d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_09efe85b9e070955ecf523cfe6e55d91b79cdc91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\ec06db9d22048bb7d7d54c0d13a17f4dfa6f78f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa4932c66d0440970cd946d360593af396ee8550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\c9561cc496a31abfbb4f1ed8e0a469d93e66c539\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b51f572adbc9863cc9fb10d7a6c9d863c23a925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\29c311185bffece8fed21d118ada5cdbd202debd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_016d3a2558685fb60e6b4ff1a27cf3229f5c5ba1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\ec06db9d22048bb7d7d54c0d13a17f4dfa6f78f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_fa4932c66d0440970cd946d360593af396ee8550.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HIM\.android\build-cache\03b3638a9e7584f7a880738a049b267b5d116688\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1f6ebdace09f422f03ac52cb18654613ccae812\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\29c311185bffece8fed21d118ada5cdbd202debd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_016d3a2558685fb60e6b4ff1a27cf3229f5c5ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HIM\.android\build-cache\c9561cc496a31abfbb4f1ed8e0a469d93e66c539\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\ProjectAS\ProjectBaru\app\build\intermediates\pre-dexed\debug\classes_7b51f572adbc9863cc9fb10d7a6c9d863c23a925.jar" />
+    </item>
+
+</items>
